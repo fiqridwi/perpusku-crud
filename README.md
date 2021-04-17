@@ -1,16 +1,17 @@
-#Perpusku
+# Perpusku
 A simple React CRUD (Create, Read, Update, Delete) app, created with Hooks, Context API, react-bootstrap-table2, React Router and React Bootstrap for UI.
 
-#Features
+# Features
+
 - CRUD
 - Search
 - Sort
 - Pagination
 
-#Notes
+# Notes
 For some reason, react-bootstrap-table2's sort icon doesn't show up. So i write some text above table.
 
-#Link
+# Link
 react-bootstrap-table2 
 https://react-bootstrap-table.github.io/react-bootstrap-table2/
 
